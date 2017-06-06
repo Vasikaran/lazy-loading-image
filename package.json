@@ -1,0 +1,15 @@
+{
+  "name": "lazy-loading-image",
+  "version": "1.0.3",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "fz-react-cli test",
+    "build": "fz-react-cli build:component"
+  },
+  "author": "Vasikaran S <vasikaran.25@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "fz-react-cli": "0.0.3-beta.31"
+  }
+}

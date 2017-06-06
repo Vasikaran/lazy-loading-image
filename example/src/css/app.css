@@ -1,0 +1,71 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+.leftColumn{
+	width: 15%;
+	background-color: #272c32;
+	height: 100%;
+	float:left;
+}
+
+.rightColumn{
+	width: 85%;
+	height: 100%;
+	overflow-y: auto;
+	float: left;
+}
+
+.menu{
+	color: white;
+	cursor: pointer;
+	padding: 10px 0px 10px 10px;
+}
+
+.menu:hover{
+	background-color: white;
+	color: black;
+}
+
+.ticketListLeft{
+	width: 70%;
+	float:left;
+}
+
+.ticketListRight{
+	width: 100%;
+}
+
+img{
+	width: 50px;
+	height: 50px;
+}
+
+.tickets{
+	padding: 20px 0 20px 0;
+    background-color: darkcyan;
+    margin-top: 10px;
+}
+
+.parent{
+	height:100%;
+}
+
+.popup{
+	height: 500px;
+	overflow: scroll;
+	width: 400px;
+	background-color: lightblue;
+}
+
+.popup1{
+	height: 500px;
+	overflow: scroll;
+	width: 300px;
+	background-color: gray;
+}
+
+.popupitem{
+	margin-top: 5px;
+}
