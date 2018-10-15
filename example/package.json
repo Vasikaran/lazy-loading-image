@@ -10,7 +10,9 @@
   "author": "Vasikaran S <vasikaran.25@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "fz-react-cli": "0.0.3-beta.38",
-    "lazy-loading-image": "file:///D:\\works\\my-libraries\\lazy-loading-image"
+    "fz-react-cli": "0.0.3-beta.38"
+  },
+  "dependencies": {
+    "lazy-loading-image": "file:.."
   }
 }
